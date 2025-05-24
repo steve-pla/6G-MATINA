@@ -1,4 +1,7 @@
-![MATINA 6G Logo](https://github.com/steve-pla/6G-MATINA/blob/main/resources/images/matina_6g_logo.png)
+<p align="center">
+  <img src="https://github.com/steve-pla/6G-MATINA/blob/main/resources/images/matina_6g_logo.png" alt="MATINA 6G Logo" width="380" />
+</p>
+
 
 # 6G-MATINA: 6G Maritime Aerial Terrestrial Intelligent Network Access
 
@@ -49,6 +52,13 @@ The simulator explores:
 ├── visualization/   # Plotting and visualization utilities
 ├── main.m           # Main simulation entry point
 ```
+
+
+## 🌊 Simulator Deployment
+
+Indicative topology image of the simulator can be shown below: 
+
+![Topology](https://github.com/steve-pla/6G-MATINA/blob/main/resources/images/matina_topology.png)
 
 
 ## 🧰 Requirements
