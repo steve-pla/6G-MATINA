@@ -1,4 +1,4 @@
-![MATINA 6G Logo](resources/images/logo.png)
+![MATINA 6G Logo](https://github.com/steve-pla/6G-MATINA/blob/main/resources/images/matina_6g_logo.png)
 
 # 6G-MATINA: 6G Maritime Aerial Terrestrial Intelligent Network Access
 
@@ -36,6 +36,7 @@ The simulator explores:
 - 📈 Built-in visualization tools
 
 ## 📁 Project Structure
+```
 6G-matina-source/
 ├── channel/         # Wireless channel models (e.g., path loss, fading)
 ├── clustering/      # Unsupervised learning algorithms for UAV deployment
@@ -47,6 +48,7 @@ The simulator explores:
 ├── test/            # Unit tests and verification scripts
 ├── visualization/   # Plotting and visualization utilities
 ├── main.m           # Main simulation entry point
+```
 
 
 ## 🧰 Requirements
